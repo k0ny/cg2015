@@ -10,4 +10,4 @@
 ![Scrivania3][scrivania]
 [scrivania]: file:///home/kony/Scrivania/ScreenGrafica/scrivania3.png
 ![Scrivania4][scrivania]
-[scrivania]: file:///home/kony/Scrivania/ScreenGrafica/scrivania2.png
+[scrivania]: (file:///home/kony/Scrivania/ScreenGrafica/scrivania2.png)
