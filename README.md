@@ -64,4 +64,5 @@
 ### ![libreria ] (https://github.com/k0ny/cg2015/blob/master/images/libreria.png)
 
 ## - Stanza di Controllo
-### ![libreria ] (https://github.com/k0ny/cg2015/blob/master/images/libreria.png)
+### ![libreria ] (https://github.com/k0ny/cg2015/blob/master/images/controllo.png)
+### ![libreria ] (https://github.com/k0ny/cg2015/blob/master/images/controllo%202.png)
