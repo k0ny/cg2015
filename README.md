@@ -21,7 +21,7 @@
 ## - Porta
 ### ![Porta] (https://github.com/k0ny/cg2015/blob/master/images/porta%200.jpg)
 ### ![Porta2] (https://github.com/k0ny/cg2015/blob/master/images/porta%201.png)
-### ![Porta3] (https://github.com/k0ny/cg2015/blob/master/images/porta%201.png)
+### ![Porta3] (https://github.com/k0ny/cg2015/blob/master/images/porta%203.png)
 
 ## - WC
 ### ![WC] (https://github.com/k0ny/cg2015/blob/master/images/wc.jpg)
