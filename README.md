@@ -4,7 +4,7 @@
 ## - Piantina & Settori
 
 ## - Scrivania
-### ! [Scrivania]: https://github.com/k0ny/cg2015/blob/master/images/scrivania.jpg
+### ! [Scrivania] https://github.com/k0ny/cg2015/blob/master/images/scrivania.jpg
 ### ![Scrivania2]: (file:///github.com/k0ny/cg2015/blob/master/images/scrivania.png)
 ### ![Scrivania3]: (images/scrivania3.png)
 ### ![Scrivania4]: (images/scrivania2.png)
