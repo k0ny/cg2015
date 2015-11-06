@@ -16,4 +16,15 @@
 
 ## - Sedia Scrivania
 ### ![Sedia scrivania]: (file:///home/kony/Scrivania/ScreenGrafica/SediaScrivania.JPG)
-### ![Sedia scrivania]: (file:///home/kony/Scrivania/ScreenGrafica/SediaScrivania.png)
+### ![Sedia scrivania2]: (file:///home/kony/Scrivania/ScreenGrafica/SediaScrivania.png)
+
+## - Porta
+### ![Porta]: (file:///home/kony/Scrivania/ScreenGrafica/porta%200.jpg)
+### ![Porta2]: (file:///home/kony/Scrivania/ScreenGrafica/porta%201.png)
+### ![Porta3]: (file:///home/kony/Scrivania/ScreenGrafica/porta%201.png)
+
+## - WC
+### ![WC]: (file:///home/kony/Scrivania/ScreenGrafica/wc.jpg)
+### ![WC2]: (file:///home/kony/Scrivania/ScreenGrafica/wc.png)
+### ![WC3]: (file:///home/kony/Scrivania/ScreenGrafica/wc2.png)
+### ![WC4]: (file:///home/kony/Scrivania/ScreenGrafica/wc4.png)
