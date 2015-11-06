@@ -5,9 +5,9 @@
 
 ## - Scrivania
 ### ![Scrivania] (https://github.com/k0ny/cg2015/blob/master/images/scrivania.jpg)
-### ![Scrivania2]: (file:///github.com/k0ny/cg2015/blob/master/images/scrivania.png)
-### ![Scrivania3]: (images/scrivania3.png)
-### ![Scrivania4]: (images/scrivania2.png)
+### ![Scrivania2] (https://github.com/k0ny/cg2015/blob/master/images/scrivania.png)
+### ![Scrivania3] (https://github.com/k0ny/cg2015/blob/master/images/scrivania3.png)
+### ![Scrivania4](https://github.com/k0ny/cg2015/blob/master/images/scrivania2.png)
 
 ## - Letto
 ### ![Letto]: (images/letto.jpg)
