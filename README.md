@@ -4,4 +4,4 @@
 ## Piantina & Settori
 ## Scrivania
 ![Prova Immagine][scrivania]
-[scrivania]: file://home/kony/Scrivania/ScreenGrafica/scrivania.jpg
+[scrivania]: file:///home/kony/Scrivania/ScreenGrafica/scrivania.jpg
