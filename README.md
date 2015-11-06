@@ -26,8 +26,8 @@
 ## - WC
 ### ![WC] (https://github.com/k0ny/cg2015/blob/master/images/wc.jpg)
 ### ![WC2] (https://github.com/k0ny/cg2015/blob/master/images/wc.png)
-### ![WC3] (https://github.com/k0ny/cg2015/blob/master/images/wc2.png)
-### ![WC4] (https://github.com/k0ny/cg2015/blob/master/images/wc4.png)
+### ![WC3] (https://github.com/k0ny/cg2015/blob/master/images/wc%202.png)
+### ![WC4] (https://github.com/k0ny/cg2015/blob/master/images/wc%204.png)
 
 ## - Cassetta pronto soccorso
 ### ![cassetta] (https://github.com/k0ny/cg2015/blob/master/images/cassetta%20pronto%20soccorso.jpg)
@@ -44,7 +44,7 @@
 
 ## - Corridoio e arredamento generale
 ### ![corr 1] (https://github.com/k0ny/cg2015/blob/master/images/corridoio.JPG)
-### ![corr 2] (https://github.com/k0ny/cg2015/blob/master/images/corridoio2.jpg)
+### ![corr 2] (https://github.com/k0ny/cg2015/blob/master/images/corridio2.jpg)
 ### ![corr 3] (https://github.com/k0ny/cg2015/blob/master/images/corridoio.png)
 ### ![arredamento 1] (https://github.com/k0ny/cg2015/blob/master/images/arredamento.png)
 ### ![arredamento 2] (https://github.com/k0ny/cg2015/blob/master/images/arredamento%202.png)
