@@ -4,4 +4,4 @@
 
 
 ## Piantina & Settori
-![alt text](http://home/kony/Scrivania/Screen Grafica/armadio.jpg "Armadio")
+![alt text](http:///home/kony/Scrivania/Screen Grafica/armadio.jpg "Armadio")
