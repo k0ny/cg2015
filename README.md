@@ -48,3 +48,20 @@
 ### ![corr 3]: (file:///home/kony/Scrivania/ScreenGrafica/corridoio.png)
 ### ![arredamento 1]: (file:///home/kony/Scrivania/ScreenGrafica/arredamento.png)
 ### ![arredamento 2]: (file:///home/kony/Scrivania/ScreenGrafica/arredamento%202.png)
+
+## - Particolari delle stanze
+### ![tavolo]: (file:///home/kony/Scrivania/ScreenGrafica/tavolo.png)
+### ![armadio]: (file:///home/kony/Scrivania/ScreenGrafica/armadio.png)
+### ![comodino con baj.]: (file:///home/kony/Scrivania/ScreenGrafica/comodino.png)
+### ![finestra]: (file:///home/kony/Scrivania/ScreenGrafica/Finestra.png)
+### ![finestra 2]: (file:///home/kony/Scrivania/ScreenGrafica/Finestra2.png)
+
+## - Stanze di visita
+### ![visita ]: (file:///home/kony/Scrivania/ScreenGrafica/visita%201.png)
+### ![visita 2]: (file:///home/kony/Scrivania/ScreenGrafica/visita%202.png)
+
+## - Libreria
+### ![libreria ]: (file:///home/kony/Scrivania/ScreenGrafica/libreria.png)
+
+## - Stanza di Controllo
+### ![libreria ]: (file:///home/kony/Scrivania/ScreenGrafica/libreria.png)
