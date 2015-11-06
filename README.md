@@ -32,3 +32,19 @@
 ## - Cassetta pronto soccorso
 ### ![cassetta]: (file:///home/kony/Scrivania/ScreenGrafica/cassetta%20pronto%20soccorso.jpg)
 ### ![cassetta2]: (file:///home/kony/Scrivania/ScreenGrafica/cassetta%20t.png)
+
+## - Lavabo e oggetti correlati
+### ![Lavabo1]: (file:///home/kony/Scrivania/ScreenGrafica/lavabo.png)
+### ![Lavabo2]: (file:///home/kony/Scrivania/ScreenGrafica/lavabo%202.png)
+
+## - Doccia
+### ![doccia 1]: (file:///home/kony/Scrivania/ScreenGrafica/doccia%201.png)
+### ![doccia 2]: (file:///home/kony/Scrivania/ScreenGrafica/doccia%202.png)
+### ![doccia 3]: (file:///home/kony/Scrivania/ScreenGrafica/doccia%203.png)
+
+## - Corridoio e arredamento generale
+### ![corr 1]: (file:///home/kony/Scrivania/ScreenGrafica/corridoio.JPG)
+### ![corr 2]: (file:///home/kony/Scrivania/ScreenGrafica/corridoio2.jpg)
+### ![corr 3]: (file:///home/kony/Scrivania/ScreenGrafica/corridoio.png)
+### ![arredamento 1]: (file:///home/kony/Scrivania/ScreenGrafica/arredamento.png)
+### ![arredamento 2]: (file:///home/kony/Scrivania/ScreenGrafica/arredamento%202.png)
