@@ -28,3 +28,7 @@
 ### ![WC2]: (file:///home/kony/Scrivania/ScreenGrafica/wc.png)
 ### ![WC3]: (file:///home/kony/Scrivania/ScreenGrafica/wc2.png)
 ### ![WC4]: (file:///home/kony/Scrivania/ScreenGrafica/wc4.png)
+
+## - Cassetta pronto soccorso
+### ![cassetta]: (file:///home/kony/Scrivania/ScreenGrafica/cassetta%20pronto%20soccorso.jpg)
+### ![cassetta2]: (file:///home/kony/Scrivania/ScreenGrafica/cassetta%20t.png)
