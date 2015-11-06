@@ -5,4 +5,4 @@
 ![GitHub Logo](http://home/kony/Scrivania/ScreenGrafica/scrivania.jpg)
 
 ![Il logo di Google][logo]
-[logo]: http://home/kony/Scrivania/ScreenGrafica/scrivania.jpg
+[logo]: file://home/kony/Scrivania/ScreenGrafica/scrivania.jpg
