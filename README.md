@@ -13,3 +13,7 @@
 ### ![Letto]: (file:///home/kony/Scrivania/ScreenGrafica/letto.jpg)
 ### ![Letto2]: (file:///home/kony/Scrivania/ScreenGrafica/letto.png)
 ### ![Letto3]: (file:///home/kony/Scrivania/ScreenGrafica/letto2.png)
+
+## - Sedia Scrivania
+### ![Sedia scrivania]: (file:///home/kony/Scrivania/ScreenGrafica/SediaScrivania.JPG)
+### ![Sedia scrivania]: (file:///home/kony/Scrivania/ScreenGrafica/SediaScrivania.png)
