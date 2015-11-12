@@ -2,6 +2,7 @@
 
 ## Breve relazione: VINCENZO GIORDANO 448963
 ## - Piantina & Settori
+### ![Pianta] (https://github.com/k0ny/cg2015/blob/master/images/pianta.jpg)
 
 ## - Scrivania
 ### ![Scrivania] (https://github.com/k0ny/cg2015/blob/master/images/scrivania.jpg)
