@@ -56,6 +56,7 @@
 ### ![comodino con baj.] (https://github.com/k0ny/cg2015/blob/master/images/comodino.png)
 ### ![finestra] (https://github.com/k0ny/cg2015/blob/master/images/Finestra.png)
 ### ![finestra 2] (https://github.com/k0ny/cg2015/blob/master/images/Finestra2.png)
+### ![fogli tavolo] (https://github.com/k0ny/cg2015/blob/master/images/fogli.png)
 
 ## - Stanze di visita
 ### ![visita ] (https://github.com/k0ny/cg2015/blob/master/images/visita%201.png)
